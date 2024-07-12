@@ -1,30 +1,43 @@
 # DRAFT STATUS
 This document is in draft status and has not yet been adopted by DataPhilly
 
-# DataPhilly Code of Conduct
+# DataPhilly Event Guidelines and Code of Conduct
 
-## Our Commitment
+## Quick Summary
+- Be respectful, inclusive, and professional
+- Don't harass, discriminate, or disrupt events
+- Follow venue rules and organizer instructions
+- Report any concerns to event organizers
+- Violations may result in removal from events or future bans
+
+## I. Code of Conduct
+
+### Our Commitment
 
 DataPhilly is dedicated to providing a welcoming, respectful, and harassment-free experience for everyone, regardless of personal characteristics or background.
 
-## Scope
+### Scope
 
-This Code of Conduct applies to all official DataPhilly events, spaces, and communications, including talks, workshops, social events, online forums, and official social media channels. It applies equally to all participants, including attendees, speakers, sponsors, volunteers, organizers, and leadership. It does not apply to participants' personal lives or activities outside of DataPhilly contexts.
+This Code of Conduct applies to all official DataPhilly events, spaces, and communications, including talks, workshops, social events, online forums, and official social media channels. It applies equally to all participants, including attendees, speakers, sponsors, volunteers, organizers, and leadership. It also covers event-related communications on social media and other online platforms.
 
-## Expected Behavior
+This Code does not apply to participants' personal lives or activities outside of DataPhilly contexts.
 
-We expect all participants, including attendees, speakers, sponsors, volunteers, and organizers, to:
+### Expected Behavior
+
+We expect all participants to:
 
 - Treat others with respect and kindness
 - Communicate openly and considerately
 - Be mindful of your surroundings and fellow participants
 - Respect the venue, its property, and the property of others
-- Use event resources (including food and beverages) as intended and in moderation
-- Clean up after themselves and dispose of waste properly
-- Follow the directions of event organizers and any specific guidelines set by the venue
-- Consume alcohol responsibly if provided at events. Organizers reserve the right to refuse service to anyone who appears intoxicated.
+- Use event resources (including food and beverages) responsibly
+- Clean up after yourself and dispose of waste properly
+- Follow the directions of event organizers and venue-specific guidelines
+- Consume alcohol responsibly if provided at events
 
-## Unacceptable Behavior
+All participants should behave in accordance with professional standards, adhering to both this Code of Conduct and their employer's policies on appropriate workplace behavior.
+
+### Unacceptable Behavior
 
 Unacceptable behaviors include, but are not limited to:
 
@@ -32,46 +45,56 @@ Unacceptable behaviors include, but are not limited to:
 - Disruptive behavior during presentations or events
 - Inappropriate physical contact or unwelcome sexual attention
 - Offensive comments or jokes
-- Theft, attempted theft, or property damage (including to the venue, other participants, or organizers)
+- Theft, attempted theft, or property damage
 - Misuse of event resources or disregard for venue policies
 
-Repeated disregard for expected behaviors or engaging in unacceptable behaviors may result in being asked to leave the event or being barred from future events.
+Repeated violations or engaging in unacceptable behaviors may result in being asked to leave the event or being barred from future events.
 
-## Addressing Unacceptable Behavior
+## II. Enforcement and Reporting
 
-If a participant engages in unacceptable behavior, event organizers will take the following steps:
+### Addressing Unacceptable Behavior
 
-1. For minor issues: Politely ask the participant to stop the behavior. Most issues can be resolved with a respectful request.
+If a participant engages in unacceptable behavior, event organizers will:
 
-2. For persistent or serious issues: Ask the participant to leave the event. If they refuse, seek assistance from venue security or other event organizers.
+1. For minor issues: Ask the participant to stop the behavior.
+2. For persistent or serious issues: Ask the participant to leave the event, seeking assistance from venue security if necessary.
+3. For safety threats or law violations: Contact local law enforcement.
 
-3. For any behavior that threatens safety or violates the law: Contact local law enforcement immediately.
+Consequences may range from a warning to expulsion from the event without refund, depending on the severity. Repeated violations or severe misconduct may result in being barred from future DataPhilly events.
 
-Event organizers should use their best judgment and prioritize the safety and positive experience of all participants. When in doubt, organizers are encouraged to consult with senior DataPhilly leadership. Repeated violations or severe misconduct may result in being barred from future events.
+DataPhilly is committed to enforcing this Code of Conduct fairly and consistently.
 
-DataPhilly is committed to enforcing this Code of Conduct fairly and consistently. All organizers are trained in handling Code of Conduct violations and will take appropriate action when necessary.
+### Reporting Guidelines
 
-## Reporting Guidelines
+If you experience or witness unacceptable behavior, please report it to a DataPhilly organizer promptly. All reports will be handled discreetly. Avoid public accusations before reporting through official channels.
 
-If you experience or witness unacceptable behavior, please report it to a DataPhilly organizer as soon as possible. All reports will be handled with discretion and confidentiality to the extent possible. Avoid public accusations or callouts, including on social media, before reporting through official channels.
+For concerns about a potential attendee prior to an event, please contact [insert appropriate contact information].
 
-## Application to Leadership
+### Incident Response
 
-This Code of Conduct applies equally to all participants, including DataPhilly organizers and leadership. Reports of violations by leadership will be handled by an impartial party.
+DataPhilly organizers will respond promptly to all reported violations. We will take appropriate action to address the situation and prioritize attendee safety and well-being. This may include asking the offending party to leave, ending the event early if necessary, or contacting venue security or authorities in severe cases.
 
-## Social Media and Public Statements
+### Application to Leadership
 
-We encourage respectful discussion of ideas and technologies. However, please refrain from making public accusations or callouts related to Code of Conduct violations. Instead, report concerns through official channels.
+This Code of Conduct applies equally to all participants, including DataPhilly organizers and leadership. Violations by leadership will be handled by an impartial party.
 
-## Photography, Recording, and Content Distribution
+## III. Event Policies
 
-Some events may be photographed, streamed online, or recorded for public distribution. Speakers should not include any confidential or proprietary information in their presentations.
+### Social Media and Public Statements
 
-## Contact Information
+We encourage respectful discussion of ideas and technologies. Please refrain from making public accusations related to Code of Conduct violations. Instead, report concerns through official channels.
 
-If you have any questions or concerns, please contact [insert contact information for DataPhilly organizers].
+### Photography, Recording, and Content Distribution
 
-By participating in DataPhilly events, you agree to abide by this Code of Conduct. We appreciate your cooperation in maintaining a respectful and inclusive environment focused on the sharing of ideas and knowledge.
+Some events may be photographed, streamed online, or recorded for public distribution. Speakers should not include confidential or proprietary information in their presentations.
+
+## IV. Contact Information
+
+For questions or concerns, please contact [insert contact information for DataPhilly organizers].
+
+By participating in DataPhilly events, you agree to abide by this Code of Conduct. We appreciate your cooperation in maintaining a respectful and inclusive environment.
+
+## V. Examples and Additional Information
 
 ## Examples of Unacceptable Behavior and Recommended Actions
 
@@ -107,8 +130,6 @@ To help event organizers respond consistently and appropriately, here are exampl
 
 Remember, the safety and comfort of all participants is the top priority. When in doubt, err on the side of caution and consult with other organizers or DataPhilly leadership.
 
-## Legal Considerations
+### Important Note
 
-This Code of Conduct is not a legal document and does not create any contractual relationships. DataPhilly is not responsible for the actions of individual participants or event sponsors. By attending our events, you consent to photography, recording, and content distribution as described above. We maintain confidentiality of reported incidents to the extent possible. Retaliation against those who report violations is prohibited. DataPhilly reserves the right to remove any participant from our events or online spaces at our discretion.
-
-By participating in DataPhilly events or online spaces, you acknowledge that you have read, understood, and agree to abide by this Code of Conduct.
+This Code of Conduct is a guideline, not a legal document. It doesn't create any contractual relationships. DataPhilly is not responsible for the actions of individual participants or event sponsors. By attending our events, you consent to photography, recording, and content distribution as described above. We maintain confidentiality of reported incidents to the extent possible. Retaliation against those who report violations is prohibited. DataPhilly reserves the right to remove any participant from our events or online spaces at our discretion.
