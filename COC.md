@@ -30,7 +30,6 @@ Unacceptable behaviors include, but are not limited to:
 - Disruptive behavior during presentations or events
 - Inappropriate physical contact or unwelcome sexual attention
 - Offensive comments or jokes
-- Invasion of privacy, including taking photos or recordings without consent
 - Theft or attempted theft
 - Violation of the host venue's policies
 
@@ -58,13 +57,21 @@ This Code of Conduct applies equally to all participants, including DataPhilly o
 
 We encourage respectful discussion of ideas and technologies. However, please refrain from making public accusations or callouts related to Code of Conduct violations. Instead, report concerns through official channels.
 
-(OPTIONAL) ## Photography and Recording
+## Photography, Recording, and Content Distribution
 
-Please ask for explicit permission before taking photos or recordings of individuals or presentations. Respect the privacy and wishes of others.
+By attending DataPhilly events, attendees agree to be photographed and potentially recorded. Speakers agree to be photographed and recorded, and consent to have their slides distributed to attendees. Some events may be streamed online or recorded for public distribution.
 
-(OPTIONAL) ## Intellectual Property
+Speakers should not include any confidential or proprietary information in their presentations, as slides and recordings may be made publicly available.
 
-Respect the intellectual property rights of others. Do not share or distribute content without the owner's permission.
+## Respect for Venues and Event Resources
+
+Participants are expected to:
+- Treat the host venue's space and property with respect
+- Use event resources (including food and beverages) as intended and in moderation
+- Clean up after themselves and dispose of waste properly
+- Follow any specific rules or guidelines set by the venue
+
+Repeated disregard for these expectations may result in being asked to leave the event or being barred from future events.
 
 ## Interpretation and Amendments
 
@@ -81,8 +88,8 @@ By participating in DataPhilly events, you agree to abide by this Code of Conduc
 To help event organizers respond consistently and appropriately, here are examples of unacceptable behavior and recommended steps:
 
 1. Inappropriate comments:
-   Example: An attendee makes offensive remarks during a conversation.
-   Action: Politely ask the attendee to refrain from such comments. If they persist, ask them to leave the event.
+   Example: An attendee makes remarks that are offensive, regardless of intent.
+   Action: Politely inform the attendee that their comments are inappropriate and ask them to refrain from such remarks. Explain the impact of their words if necessary. If they persist after being warned, ask them to leave the event.
 
 2. Disruptive behavior during presentations:
    Example: An audience member repeatedly interrupts a speaker or reacts strongly to potentially controversial content.
@@ -100,9 +107,9 @@ To help event organizers respond consistently and appropriately, here are exampl
    Example: An attendee is caught attempting to steal from the venue or another participant.
    Action: Immediately ask the individual to leave. Contact venue security and, if necessary, local law enforcement. Document the incident thoroughly.
 
-6. Privacy violations:
-   Example: Someone is taking photos of attendees or slides without permission.
-   Action: Ask them to stop and delete any unauthorized photos. If they refuse, ask them to leave the event.
+6. Disrespect for venue or misuse of event resources:
+   Example: An attendee is repeatedly taking excessive amounts of food or damaging venue property.
+   Action: Politely remind the individual of the expectations for respecting the venue and event resources. If the behavior continues, ask them to leave the event and consider barring them from future events.
 
 7. Alcohol-related misconduct:
    Example: An attendee becomes visibly intoxicated and belligerent at a social event.
