@@ -11,6 +11,10 @@ This document is in draft status and has not yet been adopted by DataPhilly
 - Report any concerns to event organizers
 - Violations may result in removal from events or future bans
 
+## Important: Your Participation and This Code
+
+By participating in DataPhilly events, you acknowledge that you have read, understood, and agree to follow these guidelines. We expect all participants to adhere to these principles. Your cooperation is essential in maintaining a respectful and inclusive environment for everyone.
+
 ## I. Code of Conduct
 
 ### Our Commitment
@@ -92,8 +96,6 @@ Some events may be photographed, streamed online, or recorded for public distrib
 ## IV. Contact Information
 
 For questions or concerns, please contact [insert contact information for DataPhilly organizers].
-
-By participating in DataPhilly events, you agree to abide by this Code of Conduct. We appreciate your cooperation in maintaining a respectful and inclusive environment.
 
 ## V. Examples and Additional Information
 
