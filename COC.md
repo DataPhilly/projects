@@ -7,6 +7,7 @@ This document is in draft status and has not yet been adopted by DataPhilly
 - Be respectful, inclusive, and professional
 - Don't harass, discriminate, or disrupt events
 - Follow venue rules and organizer instructions
+- Maintain ethical standards and avoid conflicts of interest
 - Report any concerns to event organizers
 - Violations may result in removal from events or future bans
 
@@ -26,29 +27,29 @@ This Code does not apply to participants' personal lives or activities outside o
 
 We expect all participants to:
 
-- Treat others with respect and kindness
-- Communicate openly and considerately
-- Be mindful of their surroundings and fellow participants
-- Respect the venue, its property, and the property of others
-- Use event resources (including food and beverages) responsibly
-- Clean up after themselves and dispose of waste properly
-- Follow the directions of event organizers and venue-specific guidelines
-- Consume alcohol responsibly if provided at events
+- Treat others with respect and communicate considerately
+- Follow event organizers' instructions and venue-specific guidelines
+- Use resources (including food, beverages, and event space) respectfully
+- Consume alcohol responsibly if provided
+- Avoid conflicts of interest and be transparent about potential influences
+- Ensure presentations provide genuine value to the community
+- Balance personal and professional growth with community benefit
 
-All participants should behave in accordance with professional standards, adhering to both this Code of Conduct and their employer's policies on appropriate workplace behavior.
+All participants should adhere to professional standards of behavior.
 
 ### Unacceptable Behavior
 
 Unacceptable behaviors include, but are not limited to:
 
-- Harassment, intimidation, or discrimination in any form
-- Disruptive behavior during presentations or events
-- Inappropriate physical contact or unwelcome sexual attention
-- Offensive comments or jokes
-- Theft, attempted theft, or property damage
-- Misuse of event resources or disregard for venue policies
+- Harassment, discrimination, or intimidation
+- Disruptive or offensive conduct
+- Inappropriate physical contact or unwelcome attention
+- Theft or property damage
+- Misuse of event resources
+- Undisclosed conflicts of interest
+- Using events for personal gain at the expense of the community
 
-Repeated violations or engaging in unacceptable behaviors may result in being asked to leave the event or being barred from future events.
+Violations may result in expulsion from the event or ban from future events.
 
 ## II. Enforcement and Reporting
 
@@ -127,6 +128,18 @@ To help event organizers respond consistently and appropriately, here are exampl
 7. Alcohol-related misconduct:
    Example: An attendee becomes visibly intoxicated and belligerent at a social event.
    Action: Ensure they have safe transportation home, and ask them to leave the event if disruptive behavior continues.
+
+8. Misrepresentation of talk content:
+   Example: A speaker promotes their talk as an educational presentation but delivers a sales pitch for their product.
+   Action: Interrupt the presentation if necessary, remind the speaker of our policy, and consider not inviting them for future events. Follow up with an apology to attendees.
+
+9. Abuse of organizer position:
+   Example: An event organizer consistently books speakers from their own company or network without disclosing this relationship.
+   Action: Address this with the organizer privately, emphasizing the need for transparency and diversity in speaker selection. If the behavior continues, consider removing them from the organizing team.
+
+10. Financial misconduct:
+    Example: An organizer accepts personal payments from potential sponsors to influence event decisions.
+    Action: Immediately remove the organizer from their position and bar them from future involvement in DataPhilly organization. Review and potentially revoke any sponsorships obtained through this misconduct.
 
 Remember, the safety and comfort of all participants is the top priority. When in doubt, err on the side of caution and consult with other organizers or DataPhilly leadership.
 
