@@ -9,7 +9,7 @@ DataPhilly is dedicated to providing a welcoming, respectful, and harassment-fre
 
 ## Scope
 
-This Code of Conduct applies to all official DataPhilly events, spaces, and communications, including talks, workshops, social events, online forums, and official social media channels. It does not apply to participants' personal lives or activities outside of DataPhilly contexts.
+This Code of Conduct applies to all official DataPhilly events, spaces, and communications, including talks, workshops, social events, online forums, and official social media channels. It applies equally to all participants, including attendees, speakers, sponsors, volunteers, organizers, and leadership. It does not apply to participants' personal lives or activities outside of DataPhilly contexts.
 
 ## Expected Behavior
 
@@ -53,7 +53,7 @@ DataPhilly is committed to enforcing this Code of Conduct fairly and consistentl
 
 ## Reporting Guidelines
 
-If you experience or witness unacceptable behavior, please report it to a DataPhilly organizer as soon as possible. All reports will be handled with discretion. Avoid public accusations or callouts before reporting through official channels.
+If you experience or witness unacceptable behavior, please report it to a DataPhilly organizer as soon as possible. All reports will be handled with discretion and confidentiality to the extent possible. Avoid public accusations or callouts, including on social media, before reporting through official channels.
 
 ## Application to Leadership
 
@@ -65,13 +65,7 @@ We encourage respectful discussion of ideas and technologies. However, please re
 
 ## Photography, Recording, and Content Distribution
 
-By attending DataPhilly events, attendees agree to be photographed and potentially recorded. Speakers agree to be photographed and recorded, and consent to have their slides distributed to attendees. Some events may be streamed online or recorded for public distribution.
-
-Speakers should not include any confidential or proprietary information in their presentations, as slides and recordings may be made publicly available.
-
-## Interpretation and Amendments
-
-DataPhilly organizers have the right to interpret and amend this Code of Conduct. Any major changes will be communicated to the community for feedback before implementation.
+Some events may be photographed, streamed online, or recorded for public distribution. Speakers should not include any confidential or proprietary information in their presentations.
 
 ## Contact Information
 
@@ -112,3 +106,9 @@ To help event organizers respond consistently and appropriately, here are exampl
    Action: Ensure they have safe transportation home, and ask them to leave the event if disruptive behavior continues.
 
 Remember, the safety and comfort of all participants is the top priority. When in doubt, err on the side of caution and consult with other organizers or DataPhilly leadership.
+
+## Legal Considerations
+
+This Code of Conduct is not a legal document and does not create any contractual relationships. DataPhilly is not responsible for the actions of individual participants or event sponsors. By attending our events, you consent to photography, recording, and content distribution as described above. We maintain confidentiality of reported incidents to the extent possible. Retaliation against those who report violations is prohibited. DataPhilly reserves the right to remove any participant from our events or online spaces at our discretion.
+
+By participating in DataPhilly events or online spaces, you acknowledge that you have read, understood, and agree to abide by this Code of Conduct.
