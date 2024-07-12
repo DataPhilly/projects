@@ -22,6 +22,7 @@ We expect all participants, including attendees, speakers, sponsors, volunteers,
 - Use event resources (including food and beverages) as intended and in moderation
 - Clean up after themselves and dispose of waste properly
 - Follow the directions of event organizers and any specific guidelines set by the venue
+- Consume alcohol responsibly if provided at events. Organizers reserve the right to refuse service to anyone who appears intoxicated.
 
 ## Unacceptable Behavior
 
@@ -47,6 +48,8 @@ If a participant engages in unacceptable behavior, event organizers will take th
 3. For any behavior that threatens safety or violates the law: Contact local law enforcement immediately.
 
 Event organizers should use their best judgment and prioritize the safety and positive experience of all participants. When in doubt, organizers are encouraged to consult with senior DataPhilly leadership. Repeated violations or severe misconduct may result in being barred from future events.
+
+DataPhilly is committed to enforcing this Code of Conduct fairly and consistently. All organizers are trained in handling Code of Conduct violations and will take appropriate action when necessary.
 
 ## Reporting Guidelines
 
@@ -81,8 +84,8 @@ By participating in DataPhilly events, you agree to abide by this Code of Conduc
 To help event organizers respond consistently and appropriately, here are examples of unacceptable behavior and recommended steps:
 
 1. Inappropriate comments:
-   Example: An attendee makes remarks that are offensive, regardless of intent.
-   Action: Politely inform the attendee that their comments are inappropriate and ask them to refrain from such remarks. Explain the impact of their words if necessary. If they persist after being warned, ask them to leave the event.
+   Example: An attendee makes an offensive remark or inappropriate joke with sexual connotations.
+   Action: Politely inform the attendee that their comment is inappropriate and ask them to refrain from such remarks. Explain the impact of their words if necessary. If they persist after being warned, ask them to leave the event.
 
 2. Disruptive behavior during presentations:
    Example: An audience member repeatedly interrupts a speaker or reacts strongly to potentially controversial content.
