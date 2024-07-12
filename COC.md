@@ -28,10 +28,10 @@ We expect all participants to:
 
 - Treat others with respect and kindness
 - Communicate openly and considerately
-- Be mindful of your surroundings and fellow participants
+- Be mindful of their surroundings and fellow participants
 - Respect the venue, its property, and the property of others
 - Use event resources (including food and beverages) responsibly
-- Clean up after yourself and dispose of waste properly
+- Clean up after themselves and dispose of waste properly
 - Follow the directions of event organizers and venue-specific guidelines
 - Consume alcohol responsibly if provided at events
 
@@ -96,7 +96,7 @@ By participating in DataPhilly events, you agree to abide by this Code of Conduc
 
 ## V. Examples and Additional Information
 
-## Examples of Unacceptable Behavior and Recommended Actions
+### Examples of Unacceptable Behavior and Recommended Actions
 
 To help event organizers respond consistently and appropriately, here are examples of unacceptable behavior and recommended steps:
 
