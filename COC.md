@@ -18,20 +18,23 @@ We expect all participants, including attendees, speakers, sponsors, volunteers,
 - Treat others with respect and kindness
 - Communicate openly and considerately
 - Be mindful of your surroundings and fellow participants
-- Respect the venue and the property of others
-- Follow the directions of event organizers
+- Respect the venue, its property, and the property of others
+- Use event resources (including food and beverages) as intended and in moderation
+- Clean up after themselves and dispose of waste properly
+- Follow the directions of event organizers and any specific guidelines set by the venue
 
 ## Unacceptable Behavior
 
 Unacceptable behaviors include, but are not limited to:
 
-- Harassment or intimidation in any form
-- Discrimination or exclusionary behavior
+- Harassment, intimidation, or discrimination in any form
 - Disruptive behavior during presentations or events
 - Inappropriate physical contact or unwelcome sexual attention
 - Offensive comments or jokes
-- Theft or attempted theft
-- Violation of the host venue's policies
+- Theft, attempted theft, or property damage (including to the venue, other participants, or organizers)
+- Misuse of event resources or disregard for venue policies
+
+Repeated disregard for expected behaviors or engaging in unacceptable behaviors may result in being asked to leave the event or being barred from future events.
 
 ## Addressing Unacceptable Behavior
 
@@ -43,7 +46,7 @@ If a participant engages in unacceptable behavior, event organizers will take th
 
 3. For any behavior that threatens safety or violates the law: Contact local law enforcement immediately.
 
-Event organizers should use their best judgment and prioritize the safety and positive experience of all participants. When in doubt, organizers are encouraged to consult with senior DataPhilly leadership.
+Event organizers should use their best judgment and prioritize the safety and positive experience of all participants. When in doubt, organizers are encouraged to consult with senior DataPhilly leadership. Repeated violations or severe misconduct may result in being barred from future events.
 
 ## Reporting Guidelines
 
@@ -62,16 +65,6 @@ We encourage respectful discussion of ideas and technologies. However, please re
 By attending DataPhilly events, attendees agree to be photographed and potentially recorded. Speakers agree to be photographed and recorded, and consent to have their slides distributed to attendees. Some events may be streamed online or recorded for public distribution.
 
 Speakers should not include any confidential or proprietary information in their presentations, as slides and recordings may be made publicly available.
-
-## Respect for Venues and Event Resources
-
-Participants are expected to:
-- Treat the host venue's space and property with respect
-- Use event resources (including food and beverages) as intended and in moderation
-- Clean up after themselves and dispose of waste properly
-- Follow any specific rules or guidelines set by the venue
-
-Repeated disregard for these expectations may result in being asked to leave the event or being barred from future events.
 
 ## Interpretation and Amendments
 
