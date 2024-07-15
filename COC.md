@@ -39,7 +39,7 @@ We expect all participants to:
 - Ensure presentations provide genuine value to the community
 - Balance personal and professional growth with community benefit
 
-All participants should adhere to professional standards of behavior.
+All participants should behave in accordance with professional standards, adhering to both this Code of Conduct and their employer's policies on appropriate workplace behavior.
 
 ### Unacceptable Behavior
 
