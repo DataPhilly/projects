@@ -1,6 +1,3 @@
-# DRAFT STATUS
-This document is in draft status and has not yet been adopted by DataPhilly
-
 # DataPhilly Event Guidelines and Code of Conduct
 
 ## Quick Summary
