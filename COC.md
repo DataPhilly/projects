@@ -70,7 +70,7 @@ DataPhilly is committed to enforcing this Code of Conduct fairly and consistentl
 
 If you experience or witness unacceptable behavior, please report it to a DataPhilly organizer promptly. All reports will be handled discreetly. Avoid public accusations before reporting through official channels.
 
-For concerns about a potential attendee prior to an event, please contact [insert appropriate contact information].
+For concerns about a potential attendee prior to an event, please contact [admin@dataphilly.com](mailto:admin@dataphilly.com).
 
 ### Incident Response
 
