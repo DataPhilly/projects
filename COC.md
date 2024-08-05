@@ -92,7 +92,7 @@ Some events may be photographed, streamed online, or recorded for public distrib
 
 ## IV. Contact Information
 
-For questions or concerns, please contact [insert contact information for DataPhilly organizers].
+For questions or concerns, please contact [admin@dataphilly.com](mailto:admin@dataphilly.com).
 
 ## V. Examples and Additional Information
 
